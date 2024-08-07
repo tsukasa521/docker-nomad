@@ -1,3 +1,4 @@
 busybox
 nginx:stable-alpine
 node:lts
+node:lts-alpine
