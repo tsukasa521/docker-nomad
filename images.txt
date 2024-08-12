@@ -3,4 +3,5 @@ nginx:stable-alpine
 nginx:stable
 node:lts
 node:lts-alpine
+openjdk:22
 germannewsmaker/myspeed
