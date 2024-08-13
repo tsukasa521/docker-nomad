@@ -5,4 +5,5 @@ node:lts
 node:lts-alpine
 openjdk:22
 tomcat:9
+tomcat:8.0-alpine
 germannewsmaker/myspeed
