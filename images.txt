@@ -1,1 +1,1 @@
-tomcat:8.5.40
+dockurr/windows:3.14
