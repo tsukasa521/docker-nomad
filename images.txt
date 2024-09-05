@@ -1,1 +1,1 @@
-johnshine/baidunetdisk-crossover-vnc:4.2
+dockurr/macos:1.08
