@@ -1,1 +1,1 @@
-youshandefeiyang/allinone
+youshandefeiyang/allinone:latest
