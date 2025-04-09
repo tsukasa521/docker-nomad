@@ -1,1 +1,1 @@
-youshandefeiyang/allinone
+portainer/portainer-ce
